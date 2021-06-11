@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório do curso de Git e GitHub
 
-Repositório criado durante uma aula
+Repositório criado *durante* uma aula
 
-linha teste alterando remoto
+**linha teste alterando remoto**
